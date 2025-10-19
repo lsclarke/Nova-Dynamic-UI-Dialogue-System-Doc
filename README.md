@@ -9,7 +9,7 @@
 
 This asset pack is helpful for beginners and seasoned developers and designers to get their ideas and concepts out of the brainstorming and storyboarding phase. With this system it will allow for easy transitions between being active and disabled and also introduce a creative and expressive feel to the dialogue of any project.</p>
 
-<p>This asset package has in total **6 prefab assets**. All for a specific purpose and/or aesthetic design style. The different canvases allow for developers to create dynamic ui dialogue and implement animations to the profile image icons at specific points in the dialogue to help portray emotion.</p>
+<p>This asset package has in total <h3>6 prefab assets</h3>. All for a specific purpose and/or aesthetic design style. The different canvases allow for developers to create dynamic ui dialogue and implement animations to the profile image icons at specific points in the dialogue to help portray emotion.</p>
 
 <h3 align="center" dir="auto"> Dowloadable Documentation Packet </h3>
 

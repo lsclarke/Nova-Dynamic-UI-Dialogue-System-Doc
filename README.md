@@ -3,6 +3,9 @@
 <h2 align="center" dir="auto"><strong><code>Unity Engine System Package</code></strong></h2>
 
 <h2 align="center" dir="auto"> Overview </h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zNdR3r1pT88?si=-ZThZnlxDtgg2gOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <p dir="auto">This dialogue system was created with the purpose to help aid game developers and game designers produce quality dialogue and a functioning system that is easy to use and integrate into projects. <strong>You must please be sure to include my name in the credits if you intend to publish your projects with my system.</strong> This system is designed for dynamic and expressive storytelling dialogue. With that goal in mind there are several prefab assets that are styled in different ways to help give the dialogue a variety of styles when speech in game takes place.
 
 

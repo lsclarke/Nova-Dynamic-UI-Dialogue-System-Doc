@@ -2,6 +2,7 @@
 # <h1 align="center">Nova-Dynamic-UI-Dialogue-System Documentation</h1>
 <h2 align="center" dir="auto"><strong><code>Unity Engine System Package</code></strong></h2>
 
+![Cherry_Talking_01](https://github.com/user-attachments/assets/1cdb044c-c161-4f04-a9aa-87b08234044c)
 
 <h2 align="center" dir="auto"> Overview </h2>
 <p dir="auto">This dialogue system was created with the purpose to help aid game developers and game designers produce quality dialogue and a functioning system that is easy to use and integrate into projects. <strong>You must please be sure to include my name in the credits if you intend to publish your projects with my system.</strong> This system is designed for dynamic and expressive storytelling dialogue. With that goal in mind there are several prefab assets that are styled in different ways to help give the dialogue a variety of styles when speech in game takes place.

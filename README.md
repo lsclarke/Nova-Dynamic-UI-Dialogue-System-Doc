@@ -4,7 +4,9 @@
 
 <h2 align="center" dir="auto"> Overview </h2>
 
-[![Youtube Trailer Video ](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=zNdR3r1pT88)
+<div class="Header Image">
+  <a href="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=zNdR3r1pT88"><img width="1280" height="720" alt="Dynamic UI Dialogue" src="https://github.com/user-attachments/assets/7d641cb8-2d4e-423c-9a30-5c9b7e399c61" /></a>
+</div>
 
 <p dir="auto">This dialogue system was created with the purpose to help aid game developers and game designers produce quality dialogue and a functioning system that is easy to use and integrate into projects. <strong>You must please be sure to include my name in the credits if you intend to publish your projects with my system.</strong> This system is designed for dynamic and expressive storytelling dialogue. With that goal in mind there are several prefab assets that are styled in different ways to help give the dialogue a variety of styles when speech in game takes place.
 

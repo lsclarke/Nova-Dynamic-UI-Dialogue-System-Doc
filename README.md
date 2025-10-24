@@ -2,8 +2,6 @@
 # <h1 align="center">Nova-Dynamic-UI-Dialogue-System Documentation</h1>
 <h2 align="center" dir="auto"><strong><code>Unity Engine System Package</code></strong></h2>
 
-<h2 align="center" dir="auto"> Overview </h2>
-
 
 <div class="Header Image">
   <a draggable="false" href="https://www.youtube.com/watch?v=zNdR3r1pT88"><img width="1280" height="480" draggable="false" alt="Untitled design" src="https://github.com/user-attachments/assets/3dc437ea-8da3-4332-a850-fa1b491bd982" /></a>

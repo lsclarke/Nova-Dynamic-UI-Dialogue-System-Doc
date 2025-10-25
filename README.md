@@ -55,7 +55,7 @@ This asset pack is helpful for beginners and seasoned developers and designers t
 <ol align="left" dir="auto">
   <li>Within the <code>Project Window Tab</code> navigate to the <code>Prefabs folder</code> and drag the <code>Dialogue Canvas A</code> in the scene.</li> 
   <li>Then in the editor find that canvas in the <code>Hierarchy</code> and select it to access the <code>Dialogue System</code> script.</li>
-  <li>In order for the canvas to be activated it needs a gameObject to be assigned in the <code>Style Group</code> field. Select abd drag the <code>Dialoge Style A Group</code> into the field</li>
+  <li>In order for the canvas to be activated it needs a gameObject to be assigned in the <code>Style Group</code> field. Select and drag the <code>Dialoge Style A Group</code> into the field</li>
   <li>Assign the <code>Name Text</code> from the <code>Hierarchy</code> into the <code>Name Text</code> field in the <code>Inspector</code> so the names assigned can be viewed on screen</li>
   <li>Then assign names to the <code>name1</code> and <code>name2</code> variables in the <code>Inspector</code>, and drag the profile images into the fields. <code>Person A Profile Image UI</code> goes in the <code>Profile Image 1</code>, and <code>Person A Profile Image UI</code> goes in the <code>Profile Image 1</code>.</li>
   <li>The <code>TypingSpeed</code> is determined by the value given. The shorter the value the faster a character appears</li>

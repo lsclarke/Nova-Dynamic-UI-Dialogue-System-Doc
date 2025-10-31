@@ -157,7 +157,9 @@ This asset pack is helpful for beginners and seasoned developers and designers t
 
 <h4 dir="auto"> Reference Image: </h4>
 <p align="left" dir="auto">This is an image you can use as a reference to help get started in completing the set up, and then you can adjust the dialogue and settings how you see fit.</p>
-<img width="635" height="504" alt="image" src="https://github.com/user-attachments/assets/31853bf0-0448-44c6-872b-432288ce18a8" />
+
+<img width="635" height="504" alt="Screenshot 2025-10-18 231519" src="https://github.com/user-attachments/assets/a9cd9cb2-e0d2-4de0-8747-055d497d83b3" />
+
 
 </div>
 

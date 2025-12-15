@@ -9,7 +9,7 @@
 
 <h2 align="center" dir="auto"> Overview </h2>
 
-<p dir="auto">This dialogue system was created with the purpose to help aid game developers and game designers produce quality dialogue and a functioning system that is easy to use and integrate into projects. <strong>You must please be sure to include my name in the credits if you intend to publish your projects with my system.</strong> This system is designed for dynamic and expressive storytelling dialogue. With that goal in mind there are several prefab assets that are styled in different ways to help give the dialogue a variety of styles when speech in game takes place.
+<p dir="auto">This dialogue system was created with the purpose to help aid game developers and game designers produce quality dialogue and a functioning system that is easy to use and integrate into projects. <strong>You must please be sure to include my name in the credits if you intend to publish your projects with my system</strong>. This system is designed for dynamic and expressive storytelling dialogue. With that goal in mind there are several prefab assets that are styled in different ways to help give the dialogue a variety of styles when speech in game takes place.
 
 
 This asset pack is helpful for beginners and seasoned developers and designers to get their ideas and concepts out of the brainstorming and storyboarding phase. With this system it will allow for easy transitions between being active and disabled and also introduce a creative and expressive feel to the dialogue of any project.</p>
@@ -125,7 +125,7 @@ This asset pack is helpful for beginners and seasoned developers and designers t
 <ol align="left" dir="auto">
   <li>Within the <code>Project Window Tab</code> navigate to the <code>Prefabs folder</code> and drag the <code>Dialogue Canvas C</code> in the scene.</li> 
   <li>Then in the editor find that canvas in the <code>Hierarchy</code> and select it to access the <code>Dialogue System</code> script.</li>
-  <li>In order for the canvas to be activated it needs a gameObject to be assigned in the <code>Style Group</code> field. Select abd drag the <code>Dialoge Style B Group</code> into the field</li>
+  <li>In order for the canvas to be activated it needs a gameObject to be assigned in the <code>Style Group</code> field. Select and drag the <code>Dialoge Style B Group</code> into the field</li>
   <li>Drag the <code>Person A Name Text</code> and the <code>Person B Name Text</code>from the <code>Hierarchy</code> into the <code>Name Text Array</code> field in the <code>Inspector</code> so the names assigned can be viewed on screen</li>
   <li>Then assign names to the <code>name1</code> and <code>name2</code> variables in the <code>Inspector</code>, and drag the profile images into the fields. <code>Person A Profile Image UI</code> goes in the <code>Profile Image 1</code>, and <code>Person A Profile Image UI</code> goes in the <code>Profile Image 1</code>.</li>
   <li>The <code>TypingSpeed</code> is determined by the value given. The shorter the value the faster a character appears</li>

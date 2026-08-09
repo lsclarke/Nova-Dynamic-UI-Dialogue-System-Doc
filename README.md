@@ -204,6 +204,6 @@ This asset pack is helpful for beginners and seasoned developers and designers t
 </ul>
  
 <h2 align="center" dir="auto"> Contact Information 📞</h2> 
-<p align="center" dir="auto">Contact me at <a href="mailto:lenardclarke22@gmail.com">lenardclarke22@gmail.com</a> or <a href="https://lsclarke.github.io/Portfolio-Website/index.html">My Portfolio</a> for any questions/inquiries.</p>
+<p align="center" dir="auto">Contact me at <a href="mailto:lenardclarke22@gmail.com">lenardclarke22@gmail.com</a> or <a href="https://sites.google.com/view/lenardclarke/home">My Portfolio</a> for any questions/inquiries.</p>
 </div>
 
